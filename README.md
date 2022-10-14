@@ -2,7 +2,15 @@
 
 ### Introduction
 
-This project is a solution to a problem statement that was given to my team as part of our Data Structures and C Programming course. It was made with no prior experience in software development, without any references, and only with the knowledge of C Programming and Data Structures. 
+This project is a solution to a problem statement that was given to my team as part of our Data Structures and C Programming course. It was made with no prior experience in software development, without any references, and only with the knowledge of C Programming and Data Structures.
+
+### Team
+
+<ul>
+  <li><a href="https://github.com/tarunkay7">Tarun Kesavan</a></li>
+  <li><a href="https://github.com/yaldabaoth007">Gowtham Valluri</a></li>
+  <li><a href="https://github.com/D-Arnav">Arnav Devalapally</a></li>
+</ul>
 
 ### Goal
 
